@@ -14,3 +14,5 @@ Game Features Include:
   -Rebounding when objects collide with window
 
   -Gameplay adjustment using configuration file (convienient way of adjusting almost all aspects of gameplay)
+
+  -Download the demo file for a short clip of gameplay
