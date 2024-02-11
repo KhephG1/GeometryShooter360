@@ -4,7 +4,6 @@ Game Features Include:
   -Ability to shoot in any direction
 
   -Expanded Enemy Spawing System (smaller enemies spawn upon death of a larger enemy)
-  
     -One small enemy is spawned for each vertex of parent shape
     
   -Collision detection using circular bounding boxes
